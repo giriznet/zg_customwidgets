@@ -12,7 +12,7 @@
 		</style> 
 	`;
 
-	class ColoredBox extends HTMLElement {
+	class ZG_NUMCHART extends HTMLElement {
 		constructor() {
 			super(); 
 			let shadowRoot = this.attachShadow({mode: "open"});
