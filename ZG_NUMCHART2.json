@@ -11,7 +11,7 @@
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-sap-sample-ZG_NUMCHART",
+			"tag": "com-sap-sample-ZG_NUMCHART2",
 			"url": "https://github.com/giriznet/zg_customwidgets/blob/main/ZG_NUMCHART2.js",
 			"integrity": "",
 			"ignoreIntegrity": true
