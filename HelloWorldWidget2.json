@@ -12,7 +12,7 @@
         {
 			"kind": "main",
 			"tag": "com-sap-sample-helloworld2",
-            "url": "https://github.com/giriznet/zg_customwidgets/blob/main/webcomponent2.js",
+            "url": "https://github.com/giriznet/zg_customwidgets/blob/2527e91bff613a76b9632ef2b5e068aa94e287c1/webcomponent2.js",
             "integrity": "",
             "ignoreIntegrity" : true
         }
